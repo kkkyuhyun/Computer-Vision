@@ -1,6 +1,6 @@
-#Computer Vision Project
+## Computer Vision
 
-##소개 
+## 소개 
 이 프로젝트는 컴퓨터 비전 기술을 사용하여 다양한 이미지 및 비디오 처리 작업을 수행하는 것을 목표로 합니다.
 
 ## 기술 스택
